@@ -1,6 +1,4 @@
 {-# LANGUAGE OverloadedStrings #-}
-module Main where
-
 import Web.Scotty
 
 import Data.Monoid (mconcat)
